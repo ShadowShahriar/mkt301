@@ -1,0 +1,17 @@
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"**/Thumbs.db": true,
+		"**/*.exe": true,
+		"**/.gitignore": true,
+		"**/desktop.ini": true,
+		".old": true,
+		"LICENSE": true,
+		"_config.yml": true,
+		"_includes": true
+	}
+}
