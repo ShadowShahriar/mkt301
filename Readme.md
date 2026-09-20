@@ -56,9 +56,9 @@ Course offered by,
 #### Mid Term
 
 - [**Class 01**](https://shadowshahriar.github.io/mkt301/notes/class-01.pdf): 13 September 2026
+- [**Class 02-03**](https://shadowshahriar.github.io/mkt301/notes/class-02-03.pdf): 17, 20 September 2026
 
-<!-- - [**Class 02-03**](https://shadowshahriar.github.io/mkt301/notes/class-02-03.pdf): 13 May 2026
-- [**Class 04**](https://shadowshahriar.github.io/mkt301/notes/class-04.pdf): 18 May 2026
+<!-- - [**Class 04**](https://shadowshahriar.github.io/mkt301/notes/class-04.pdf): 18 May 2026
 - [**Class 05**](https://shadowshahriar.github.io/mkt301/notes/class-05.pdf): 8 June 2026
 - [**Class 06**](https://shadowshahriar.github.io/mkt301/notes/class-06.pdf): 10 June 2026
 - [**Class 07**](https://shadowshahriar.github.io/mkt301/notes/class-07.pdf): 15 June 2026
